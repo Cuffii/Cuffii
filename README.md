@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hüseyin
+
+[![Discord Presence](https://lanyard.kyrie25.me/api/585415643029962763)](https://discord.com/users/585415643029962763)
 
 <!--
 **Cuffii/Cuffii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
