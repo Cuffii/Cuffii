@@ -1,6 +1,6 @@
 # Hüseyin
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/585415643029962763&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/585415643029962763)
+[![Discord Presence](https://lanyard.kyrie25.me/api/585415643029962763?idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/585415643029962763)
 
 <!--
 **Cuffii/Cuffii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
